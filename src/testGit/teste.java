@@ -6,6 +6,9 @@ public class teste {
 		
 		System.out.println("ola mundo");
 		System.out.println("Atualizando");
+		System.out.println("ola mundo 2");
+		System.out.println("ola mundo 2");
+		System.out.println("ola mundo 2");
 
 	}
 
